@@ -1,7 +1,6 @@
 # learning-materials
 
 ## 1.Operating Systems
-
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2017/)
 - [Operating System Concepts](http://iips.icci.edu.iq/images/exam/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf)
@@ -43,6 +42,12 @@
 - [多变量微积分](http://open.163.com/special/opencourse/multivariable.html) [(Exercise Lesson)](http://open.163.com/special/opencourse/duobianliangweijifen.html)
 ## 6.Machine Learning & Deep Learning
 - [CS229: Machine Learning](http://cs229.stanford.edu/) [(Cources Video)](http://open.163.com/special/opencourse/machinelearning.html)
+- [use numpy, scipy, and tensorflow to implement these basic ML model and learning algorithm](https://github.com/icrtiou/Coursera-ML-AndrewNg)
+- [Machine Learning, Tom Mitchell](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+- [Learning From Data - Online Course (MOOC)](http://work.caltech.edu/telecourse.html)
+- [The Elements of Statistical Learning - Stanford University](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+- [Machine Learning, Tom Mitchell, McGraw Hill, 1997.](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf)
+- [Deep Learning](http://www.deeplearningbook.org/)
 - [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [CS230: Deep Learning](https://web.stanford.edu/class/cs230/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
