@@ -29,6 +29,7 @@
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/)
 - [A tour of Go](https://tour.golang.org/list)
+- [The Scala Programming Language](https://docs.scala-lang.org/tutorials/)
 - [Advanced Bash-Scripting Guide](https://www.tldp.org/LDP/abs/html/)
 - [UNIX环境高级编程（第3版）](https://book.douban.com/subject/25900403/)
 - [Head First 设计模式（中文版）](https://book.douban.com/subject/2243615/)
