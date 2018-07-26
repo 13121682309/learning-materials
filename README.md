@@ -31,6 +31,7 @@
 - [A tour of Go](https://tour.golang.org/list)
 - [The Scala Programming Language](https://docs.scala-lang.org/tutorials/)
 - [Advanced Bash-Scripting Guide](https://www.tldp.org/LDP/abs/html/)
+- [Matlab Primer](http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html)
 - [UNIX环境高级编程（第3版）](https://book.douban.com/subject/25900403/)
 - [Head First 设计模式（中文版）](https://book.douban.com/subject/2243615/)
 - [编写可读代码的艺术](https://book.douban.com/subject/10797189/)
