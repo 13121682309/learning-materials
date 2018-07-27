@@ -44,6 +44,7 @@
 - [多变量微积分](http://open.163.com/special/opencourse/multivariable.html) [(Exercise Lesson)](http://open.163.com/special/opencourse/duobianliangweijifen.html)
 ## 6.Machine Learning & Deep Learning
 - [CS229: Machine Learning](http://cs229.stanford.edu/) [(Cources Video)](http://open.163.com/special/opencourse/machinelearning.html)
+- [Machine Learning - Home | Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [use numpy, scipy, and tensorflow to implement these basic ML model and learning algorithm](https://github.com/icrtiou/Coursera-ML-AndrewNg)
 - [Machine Learning, Tom Mitchell](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 - [Learning From Data - Online Course (MOOC)](http://work.caltech.edu/telecourse.html)
